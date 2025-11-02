@@ -9,7 +9,6 @@
     "price": 14.92,
     "divCash": 0.59,
     "payoutFreq": "Quarterly",
-    "totalincome": 1000,
     "quantity": 1000
   },
   {
@@ -18,7 +17,6 @@
     "price": 21.66,
     "divCash": 0.8343,
     "payoutFreq": "Annual",
-    "totalincome": 1000,
     "quantity": 40000
   }
 
