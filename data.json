@@ -4,6 +4,7 @@
 
 
   {
+    "market": "ADX", 
     "symbol": "ADCB",
     "name": "بنك أبوظبي التجاري",
     "price": 14.92,
@@ -12,6 +13,7 @@
     "quantity": 1000
   },
   {
+    "market": "DFM",
     "symbol": "ADIB",
     "name": "مصرف أبوظبي اﻻسلامي",
     "price": 21.66,
