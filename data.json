@@ -2,7 +2,7 @@
   {
     "market": "ADX",
     "symbol": "WAHA",
-    "name": "Al Waha Capital PJSC (ADX:WAHA)",
+    "name": "Al Waha Capital",
     "price": 1.62,
     "divCash": 0.1,
     "payoutFreq": "Annual",
@@ -11,7 +11,7 @@
   {
     "market": "ADX",
     "symbol": "ADCB",
-    "name": "Abu Dhabi Commercial Bank PJSC (ADX:ADCB)",
+    "name": "Abu Dhabi Commercial Bank",
     "price": 15.46,
     "divCash": 0.59,
     "payoutFreq": "Annual",
@@ -20,7 +20,7 @@
   {
     "market": "ADX",
     "symbol": "FAB",
-    "name": "First Abu Dhabi Bank P.J.S.C. (ADX:FAB)",
+    "name": "First Abu Dhabi Bank",
     "price": 17.38,
     "divCash": 0.75,
     "payoutFreq": "Annual",
@@ -29,7 +29,7 @@
   {
     "market": "ADX",
     "symbol": "ADNIC",
-    "name": "Abu Dhabi National Insurance Company PJSC (ADX:ADNIC)",
+    "name": "Abu Dhabi National Insurance Company",
     "price": 7.24,
     "divCash": 0.45,
     "payoutFreq": "Annual",
@@ -38,7 +38,7 @@
   {
     "market": "ADX",
     "symbol": "ICAP",
-    "name": "Investcorp Capital plc",
+    "name": "Investcorp Capital",
     "price": 1.55,
     "divCash": 0.188,
     "payoutFreq": "Annual",
