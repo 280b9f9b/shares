@@ -10,7 +10,7 @@
   },
   {
     "market": "ADX",
-    "symbol": "ADCB",
+    "symbol": "ADCB ✓",
     "name": "Abu Dhabi Commercial Bank",
     "price": 15.46,
     "divCash": 0.59,
@@ -19,7 +19,7 @@
   },
   {
     "market": "ADX",
-    "symbol": "FAB",
+    "symbol": "FAB ✓",
     "name": "First Abu Dhabi Bank",
     "price": 17.38,
     "divCash": 0.75,
@@ -28,7 +28,7 @@
   },
   {
     "market": "ADX",
-    "symbol": "ADNIC",
+    "symbol": "ADNIC ✓",
     "name": "Abu Dhabi National Insurance Company",
     "price": 7.24,
     "divCash": 0.45,
