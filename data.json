@@ -1,7 +1,3 @@
-{
-  "companies": {
-    "bank": [
-
 
   {
     "market": "ADX", 
@@ -22,6 +18,4 @@
     "quantity": 40000
   }
 
-]
-  }
-}
+
