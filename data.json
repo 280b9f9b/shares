@@ -6,7 +6,7 @@
     "price": 1.62,
     "divCash": 0.1,
     "payoutFreq": "Annual",
-    "quantity": 25,612
+    "quantity": 25612
   },
   {
     "market": "ADX",
@@ -15,7 +15,7 @@
     "price": 15.46,
     "divCash": 0.59,
     "payoutFreq": "Annual",
-    "quantity": 2,630
+    "quantity": 2630
   },
   {
     "market": "ADX",
@@ -24,7 +24,7 @@
     "price": 17.38,
     "divCash": 0.75,
     "payoutFreq": "Annual",
-    "quantity": 3,292
+    "quantity": 3292
   },
   {
     "market": "ADX",
@@ -33,7 +33,7 @@
     "price": 7.24,
     "divCash": 0.45,
     "payoutFreq": "Annual",
-    "quantity": 50,000
+    "quantity": 50000
   },
   {
     "market": "ADX",
@@ -42,6 +42,6 @@
     "price": 1.57,
     "divCash": 0.19,
     "payoutFreq": "Annual",
-    "quantity": 5,400
+    "quantity": 5400
   }
 ]
