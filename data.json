@@ -25,5 +25,14 @@
     "divCash": 0.8343,
     "payoutFreq": "Annual",
     "quantity": 40000
+  },
+  {
+    "market": "KSA",
+    "symbol": "ADIB",
+    "name": "مصرف أبوظبي اﻻسلامي",
+    "price": 21.66,
+    "divCash": 0.8343,
+    "payoutFreq": "Annual",
+    "quantity": 40000
   }
 ]
