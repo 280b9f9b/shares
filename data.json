@@ -39,8 +39,8 @@
     "market": "ADX",
     "symbol": "ICAP",
     "name": "Investcorp Capital plc",
-    "price": 1.57,
-    "divCash": 0.19,
+    "price": 1.55,
+    "divCash": 0.188,
     "payoutFreq": "Annual",
     "quantity": 5400
   }
