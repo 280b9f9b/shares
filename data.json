@@ -1,15 +1,6 @@
 [
   {
     "market": "ADX",
-    "symbol": "WAHA",
-    "name": "Al Waha Capital",
-    "price": 1.62,
-    "divCash": 0.1,
-    "payoutFreq": "Annual",
-    "quantity": 25612
-  },
-  {
-    "market": "ADX",
     "symbol": "ADCB ✓",
     "name": "Abu Dhabi Commercial Bank",
     "price": 15.46,
@@ -34,6 +25,15 @@
     "divCash": 0.45,
     "payoutFreq": "Annual",
     "quantity": 50000
+  },
+  {
+    "market": "ADX",
+    "symbol": "WAHA",
+    "name": "Al Waha Capital",
+    "price": 1.62,
+    "divCash": 0.1,
+    "payoutFreq": "Annual",
+    "quantity": 25612
   },
   {
     "market": "ADX",
